@@ -1,0 +1,11 @@
+965 / 980 for the number : 0
+1120 / 1135 for the number : 1
+968 / 1032 for the number : 2
+952 / 1010 for the number : 3
+941 / 982 for the number : 4
+810 / 892 for the number : 5
+923 / 958 for the number : 6
+955 / 1028 for the number : 7
+926 / 974 for the number : 8
+951 / 1009 for the number : 9
+Obtained 95.11% accuracy
